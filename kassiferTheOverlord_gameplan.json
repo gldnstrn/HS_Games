@@ -1,0 +1,45 @@
+{
+  "heroName": "Kassifir The Overlord",
+  "rounds": [
+  	 {
+	  "mode": "Default",
+	  "type": "NumberOfWords",
+	  "prompt": "Protagonist has an ongoing struggle - 8 words"
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "Acronym",
+	  "prompt": "The Dream Inside - H.O.P.E."
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "An Unfamiliar Situation - K.N.I.G.H.T."
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "NumberOfWords", 
+	  "prompt": "The Darkness Descends - 7 words"
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "Call-back results in a plan - 10 words"
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "VICTORY or DEFEAT - S.P.E.A.K."
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "The Lesson Learned - 8 words"
+	  },
+	  {
+	  "mode": "Tiebreak",
+	  "type": "Acronym",
+	  "prompt": "Name of this Story - B.B.B.B."
+	  }
+  ] 
+}
