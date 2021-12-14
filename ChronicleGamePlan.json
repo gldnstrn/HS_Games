@@ -1,0 +1,45 @@
+{
+  "heroName": "The Chronicle",
+  "rounds": [
+  	 {
+	  "mode": "Default",
+	  "type": "NumberOfWords",
+	  "prompt": "The Chronicle has an ongoing struggle - 8 words"
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "Acronym",
+	  "prompt": "The Chronicle's Secret Dream - M.Y.T.H."
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "An Unfamiliar Situation for Chronicle - D.O.O.M.E.D."
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "NumberOfWords", 
+	  "prompt": "The Darkness Descends - 6 words"
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "Call-back results in The Chronicle's plan - 10 words"
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "VICTORY or DEFEAT - S.P.E.L.L."
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "The Lesson Learned - 8 words"
+	  },
+	  {
+	  "mode": "Tiebreak",
+	  "type": "Acronym",
+	  "prompt": "Name of this Story - T.O.N."
+	  }
+  ] 
+}
