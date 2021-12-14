@@ -1,0 +1,45 @@
+{
+  "heroName": "Lorthan, head of the Thieves Guild",
+  "rounds": [
+  	 {
+	  "mode": "Default",
+	  "type": "NumberOfWords",
+	  "prompt": "Lorthan has an ongoing struggle - 8 words"
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "Acronym",
+	  "prompt": "Lorthan's Secret Dream - B.R.E.A.D."
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "An Unfamiliar Situation for Lorthan - P.O.W.E.R."
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "NumberOfWords", 
+	  "prompt": "The Darkness Descends - 5 words"
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "Call-back results in Lorthan's plan - 10 words"
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "VICTORY or DEFEAT - S.L.A.P.S."
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "The Lesson Learned - 8 words"
+	  },
+	  {
+	  "mode": "Tiebreak",
+	  "type": "Acronym",
+	  "prompt": "Name of this Story - L.A.L.A."
+	  }
+  ] 
+}
