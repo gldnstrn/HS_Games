@@ -29,7 +29,7 @@
 	  {
 	  "mode": "Default",
 	  "type": "Acronym", 
-	  "prompt": "VICTORY or DEFEAT - S.P.E.L.L."
+	  "prompt": "VICTORY or DEFEAT - C.H.A.O.S."
 	  },
 	  {
 	  "mode": "DailyDouble",
@@ -39,7 +39,7 @@
 	  {
 	  "mode": "Tiebreak",
 	  "type": "Acronym",
-	  "prompt": "Name of this Story - T.O.N."
+	  "prompt": "Name of this Story - R.O.N."
 	  }
   ] 
 }
