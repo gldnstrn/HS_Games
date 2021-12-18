@@ -1,0 +1,45 @@
+{
+  "heroName": "Helen the Half Dragon",
+  "rounds": [
+  	 {
+	  "mode": "Default",
+	  "type": "NumberOfWords",
+	  "prompt": "Helen has an ongoing struggle - 8 words"
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "Acronym",
+	  "prompt": "Helen's Desperate Wish - S.C.A.L.E.S."
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "An Unfamiliar Situation for Helen - H.E.L.P."
+	  }, 
+	  {
+	  "mode": "Default", 
+	  "type": "NumberOfWords", 
+	  "prompt": "The Darkness Descends - 6 words"
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "Call-back results in Helen's plan - 10 words"
+	  },
+	  {
+	  "mode": "Default",
+	  "type": "Acronym", 
+	  "prompt": "VICTORY or DEFEAT - H.O.N.O.R."
+	  },
+	  {
+	  "mode": "DailyDouble",
+	  "type": "NumberOfWords",
+	  "prompt": "The Lesson Learned - 8 words"
+	  },
+	  {
+	  "mode": "Tiebreak",
+	  "type": "Acronym",
+	  "prompt": "Name of this Story - H.A.H.A."
+	  }
+  ] 
+}
