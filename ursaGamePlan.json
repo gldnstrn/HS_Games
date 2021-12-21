@@ -1,0 +1,45 @@
+{
+    "heroName": "Ursa",
+    "rounds": [
+        {
+            "prompt": "Ursa has an ongoing struggle - 8 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Ursa's Hidden Dream - B.E.A.R."
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation for Ursa - H.U.N.T.E.D."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Darkness Descends - 6 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Call-back results in Ursa's plan - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "VICTORY or DEFEAT - R.U.S.T.Y."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 8 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Name of this story - U.H.O.H."
+        }
+    ]
+}
