@@ -1,0 +1,45 @@
+{
+    "heroName": "Explodey-Boys",
+    "rounds": [
+        {
+            "prompt": "ExplodeyBoys have an ongoing problem - 8 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The ExplodeyBoys want to use their power to BLANK BLANK - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation for the ExplodeyBoys - E.L.F."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Villain, NAME, says ____ ____ ____ ____ - 8 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Callback results in the ExplodeyBoys' new plan - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "VICTORY or DEFEAT - J.I.N.G.L.E."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 8 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "NumberOfWords",
+            "prompt": "Name of the leader of the ExplodeyBoys - 2 words"
+        }
+    ]
+}
