@@ -1,0 +1,45 @@
+{
+    "heroName": "Springfoot",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle - 8 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Dream Inside - H.O.L.E."
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation - L.U.C.K.Y."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Darkness Descends - 7 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Call-back results in a plan - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Victory or defeat - S.U.N.D.A.E."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 5 words "
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline - G.O.G.G.L.E.S."
+        }
+    ]
+}
