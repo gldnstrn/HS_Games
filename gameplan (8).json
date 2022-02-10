@@ -1,0 +1,45 @@
+{
+    "heroName": "2/10/2022",
+    "rounds": [
+        {
+            "prompt": "The Ordinary World - 7 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Dream Inside - F.I.R.E.  "
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation - S.T.R.O.N.G."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 8 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Callback results in a plan - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Victory or Defeat - A.R.C.A.N.E."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 5 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline - H.H.H."
+        }
+    ]
+}
