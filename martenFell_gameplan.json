@@ -1,0 +1,45 @@
+{
+    "heroName": "Marten Fell",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle - 7 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Dream Inside - S.H.I.E.L.D."
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation - B.O.N.E.S."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 8 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Callback results in a plan - 10 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Victory or defeat - C.H.I.L.L.S."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 5 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline for the story - F.E.L.L."
+        }
+    ]
+}
