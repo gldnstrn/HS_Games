@@ -1,0 +1,25 @@
+{
+    "heroName": "Hansel & Gretel",
+    "rounds": [
+        {
+            "prompt": "Protagonist have an ongoing struggle - 5 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Dream Inside - L.O.S.T."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation - C.A.N.D.Y."
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline of this story - H.E.R.O."
+        }
+    ]
+}
