@@ -2,29 +2,29 @@
     "heroName": "Violet Valkyrie Lynn",
     "rounds": [
         {
-            "prompt": "Lynn has an ongoing struggle - 7 words",
+            "prompt": "Protagonist has an ongoing struggle - 5 words",
             "mode": "Default",
             "type": "NumberOfWords"
         },
         {
             "mode": "Default",
             "type": "Acronym",
-            "prompt": "The Dream Inside - H.O.P.E."
-        },
-        {
-            "mode": "Default",
-            "type": "Acronym",
-            "prompt": "An Unfamiliar Situation - K.I.Z.A.I.R."
+            "prompt": "Dream Inside - H.O.P.E."
         },
         {
             "mode": "Default",
             "type": "NumberOfWords",
-            "prompt": "Darkness Descends - 8 words"
+            "prompt": "An Unfamiliar Situation - 3 words"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 5 words"
         },
         {
             "mode": "DailyDouble",
             "type": "NumberOfWords",
-            "prompt": "Callback results in a new plan - 10 words"
+            "prompt": "Callback results in a new plan - 6 words"
         },
         {
             "mode": "Default",
@@ -39,7 +39,7 @@
         {
             "mode": "Tiebreak",
             "type": "Acronym",
-            "prompt": "Logline - V.V.L."
+            "prompt": "Logline for this story - V.V.L."
         }
     ]
 }
