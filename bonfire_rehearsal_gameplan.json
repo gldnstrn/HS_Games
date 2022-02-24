@@ -1,8 +1,8 @@
 {
-    "heroName": "Hansel & Gretel",
+    "heroName": "Hansel and Gretel",
     "rounds": [
         {
-            "prompt": "Protagonist have an ongoing struggle - 5 words",
+            "prompt": "Protagonists have an ongoing struggle - 3 words",
             "mode": "Default",
             "type": "NumberOfWords"
         },
@@ -13,8 +13,8 @@
         },
         {
             "mode": "DailyDouble",
-            "type": "Acronym",
-            "prompt": "An Unfamiliar Situation - C.A.N.D.Y."
+            "type": "NumberOfWords",
+            "prompt": "An Unfamiliar Situation - 4 words"
         },
         {
             "mode": "Tiebreak",
