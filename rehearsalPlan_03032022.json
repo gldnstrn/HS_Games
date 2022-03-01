@@ -1,0 +1,20 @@
+{
+    "heroName": "Hansel & Gretel",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle - L.O.S.T.",
+            "mode": "Default",
+            "type": "Acronym"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Heart's Desire - 3 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline of this story - H.E.R.O."
+        }
+    ]
+}
