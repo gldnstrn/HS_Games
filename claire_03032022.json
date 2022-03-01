@@ -1,0 +1,45 @@
+{
+    "heroName": "Claire",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle -5 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Heart's Desire - W.A.N.T."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "An Unfamiliar Situation - 3 words "
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 5 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Callback results in a plan - 6 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Victory or defeat - P.O.W.E.R."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 5 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Logline of this story - T.H.I.E.F."
+        }
+    ]
+}
