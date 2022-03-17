@@ -1,0 +1,45 @@
+{
+    "heroName": "Henrick",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle - 6 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Heart's Desire - 3 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "An Unfamiliar Situation - E.I.G.H.T."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 6 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "Acronym",
+            "prompt": "Callback Results in a Plan - P.A.S.T."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Victory or Defeat - 5 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 4 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "NumberOfWords",
+            "prompt": "Name this Story - 4 words"
+        }
+    ]
+}
