@@ -2,7 +2,7 @@
     "heroName": "Razer",
     "rounds": [
         {
-            "prompt": "Darkness Descends. For this round you must complete the sentence: "the psychic octopus flung out it's tentacles and __ - 5 words",
+            "prompt": "Darkness Descends. For this round you must complete the sentence: The psychic octopus flung out it's tentacles and __ - 5 words",
             "mode": "Default",
             "type": "NumberOfWords"
         },
