@@ -1,0 +1,45 @@
+{
+    "heroName": "Razer",
+    "rounds": [
+        {
+            "prompt": "Protagonist has an ongoing struggle - 5 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Heart’s Desire - T.A.K.E."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "An Unfamiliar Situation - 4 words"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 5 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Call-back Results In A Plan - 3 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Victory or Defeat? - S.E.T."
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 5 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "NumberOfWords",
+            "prompt": "Name This Story - 4 words"
+        }
+    ]
+}
