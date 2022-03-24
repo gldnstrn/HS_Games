@@ -2,7 +2,7 @@
     "heroName": "Razer",
     "rounds": [
         {
-            "prompt": "Protagonist has an ongoing struggle - 5 words",
+            "prompt": "The Ordinary World - 5 words",
             "mode": "Default",
             "type": "NumberOfWords"
         },
