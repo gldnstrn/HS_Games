@@ -1,0 +1,45 @@
+{
+    "heroName": "Dardaleza's Fang",
+    "rounds": [
+        {
+            "prompt": "The Ordinary World - 5 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Heart's Desire - A.C.H.E"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "An Unfamiliar Situation - Must be a Rhyme Couplet - 6 words"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 6 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "Acronym",
+            "prompt": "Call-back Results In A Plan - S.C.O.R.C.H.E.D."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Victory or Defeat - Must include at least 1 rhyme - 8 words"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 9 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Name This Story - B.R.E.A.T.H."
+        }
+    ]
+}
