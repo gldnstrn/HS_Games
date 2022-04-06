@@ -1,0 +1,45 @@
+{
+    "heroName": "Razer",
+    "rounds": [
+        {
+            "prompt": "The Ordinary World - 6 words",
+            "mode": "Default",
+            "type": "NumberOfWords"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "The Heart's Desire - C.R.Y.P.T."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "An Unfamiliar Situation - Must be a Rhyme Couplet - 6 words"
+        },
+        {
+            "mode": "DailyDouble",
+            "type": "NumberOfWords",
+            "prompt": "Darkness Descends - 5 words"
+        },
+        {
+            "mode": "Default",
+            "type": "Acronym",
+            "prompt": "Call-back Results In A Plan - T.R.E.S.P.A.S.S."
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "Victory or Defeat - Must include 2 or more rhymes - 8 words"
+        },
+        {
+            "mode": "Default",
+            "type": "NumberOfWords",
+            "prompt": "The Lesson Learned - 4 words"
+        },
+        {
+            "mode": "Tiebreak",
+            "type": "Acronym",
+            "prompt": "Name This Story - R.E.S.T."
+        }
+    ]
+}
