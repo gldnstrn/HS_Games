@@ -32,7 +32,7 @@
             "prompt": "Victory or Defeat - Must include 2 or more rhymes - 8 words"
         },
         {
-            "mode": "Default",
+            "mode": "DailyDouble",
             "type": "NumberOfWords",
             "prompt": "The Lesson Learned - 4 words"
         },
