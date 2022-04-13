@@ -1,0 +1,51 @@
+{
+  "heroName": "The Dragon Lord",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Heart's Desire - F.A.N.G."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "An Unfamiliar Situation: Must be a rhyme couplet! - 6 words"
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "Darkness Descends - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "Call-back Results In A Plan - S.H.R.E.D.D.E.D.",
+      "multiplier": 2,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Victory or Defeat? Rhyme Time: Must include 2 or more rhymes, any rhyme scheme - 8 words",
+      "multiplier": 3,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned - 4 words",
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "NumberOfWords",
+      "prompt": "Name This Story - 3 words",
+      "submissionTime": 180000
+    }
+  ]
+}

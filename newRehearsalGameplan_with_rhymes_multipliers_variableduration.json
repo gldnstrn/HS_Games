@@ -1,0 +1,27 @@
+{
+  "heroName": "Richard Robert",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World - 4 words"
+	  "submissionTime": 180000
+    },
+	{
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - P.I.N.T.",
+      "multiplier": 2,
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Hearts Desire: Include one rhyme - 4 words"
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "NumberOfWords",
+      "prompt": "Name This Story - 5 words",
+    }
+  ]
+}
