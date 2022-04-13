@@ -43,9 +43,8 @@
     },
     {
       "mode": "Tiebreak",
-      "type": "NumberOfWords",
-      "prompt": "Name This Story - 3 words",
-      "submissionTime": 180000
+      "type": "Acronym",
+      "prompt": "Name This Story - I.N.F.A.M.Y.",
     }
   ]
 }
