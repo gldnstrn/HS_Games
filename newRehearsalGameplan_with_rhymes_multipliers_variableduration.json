@@ -4,14 +4,14 @@
     {
       "mode": "Default",
       "type": "NumberOfWords",
-      "prompt": "The Ordinary World - 4 words"
-	  "submissionTime": 180000
+      "prompt": "The Ordinary World - 4 words",
+      "submissionTime": 180000
     },
 	{
       "mode": "Default",
       "type": "Acronym",
       "prompt": "An Unfamiliar Situation - P.I.N.T.",
-      "multiplier": 2,
+      "multiplier": 2
     },
     {
       "mode": "DailyDouble",
@@ -21,7 +21,7 @@
     {
       "mode": "Tiebreak",
       "type": "NumberOfWords",
-      "prompt": "Name This Story - 5 words",
+      "prompt": "Name This Story - 5 words"
     }
   ]
 }
