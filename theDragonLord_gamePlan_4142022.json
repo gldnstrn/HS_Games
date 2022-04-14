@@ -39,7 +39,7 @@
       "mode": "DailyDouble",
       "type": "NumberOfWords",
       "prompt": "The Lesson Learned - 4 words",
-      "submissionTime": 150000
+      "submissionTime": 100000
     },
     {
       "mode": "Tiebreak",
