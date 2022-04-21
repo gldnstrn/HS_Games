@@ -1,0 +1,50 @@
+{
+  "heroName": "Talia",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "The Heart's Desire - H.U.N.T."
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "An Unfamiliar Situation: Must have a single rhyme! - 6 words"
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "Darkness Descends - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "Call-back Results In A Plan - V.I.S.A.G.E.",
+      "multiplier": 2,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Victory or Defeat? Rhyme Time: Must include 2 or more rhymes, any rhyme scheme - 8 words",
+      "multiplier": 3,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned - 4 words",
+      "submissionTime": 100000
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Name This Story - T.O.T.E.M."
+    }
+  ]
+}
