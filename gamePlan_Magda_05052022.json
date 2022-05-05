@@ -1,0 +1,50 @@
+{
+  "heroName": "Magda",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Heart's Desire: Must have a single rhyme! - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - M.A.G.E."
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "Darkness Descends: The Mage unleashes their powers resulting in _____ - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In A Plan, Rhyme Time: Must include 2 or more rhymes, any rhyme scheme - 8 words",
+      "multiplier": 2,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "Victory or Defeat? - B.A.N.I.S.H.",
+      "multiplier": 3,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned: Magda, overwhelmed with what she had wrought, realized that  ______ - 4 words",
+      "submissionTime": 100000
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Name This Story - T.O.T.E.M."
+    }
+  ]
+}
