@@ -1,0 +1,50 @@
+{
+  "heroName": "Aaron",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World: For countless days after the loss of Ronak, Aaron found himself ___________ - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Heart's Desire: Must have a single rhyme! - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - G.R.I.E.F."
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "Darkness Descends: Little did Aaron know that the obtaining the crystal would lead to ______” - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In A Plan, Rhyme Time: Must include 2 or more rhymes, any rhyme scheme - 8 words",
+      "multiplier": 2,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "Victory or Defeat? - R.E.V.I.V.E.S.",
+      "multiplier": 3,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned: Until he goes to grave himself, Aaron will always remember  ______ - 4 words",
+      "submissionTime": 100000
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Name This Story - T.O.T.E.M."
+    }
+  ]
+}
