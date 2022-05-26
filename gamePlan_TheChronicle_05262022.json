@@ -1,0 +1,50 @@
+{
+  "heroName": "The Chronicle",
+  "rounds": [
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Ordinary World: After nearly a fortnight, whilst on annual solo vision journey, The Chronicle found himself confronted by  _______ - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "The Heart's Desire: Must have a single rhyme! - 6 words"
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "An Unfamiliar Situation - R.E.A.L.M."
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "Darkness Descends: Chronicle spoke the Shattered Library’s most sacred tome back into existence and ______ - 5 words"
+    },
+    {
+      "mode": "Default",
+      "type": "NumberOfWords",
+      "prompt": "Call-back Results In A Plan, Rhyme Time: Must include 2 or more rhymes, any rhyme scheme - 8 words",
+      "multiplier": 2,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "Default",
+      "type": "Acronym",
+      "prompt": "Victory or Defeat? - S.C.H.O.L.A.R.",
+      "multiplier": 3,
+      "submissionTime": 150000
+    },
+    {
+      "mode": "DailyDouble",
+      "type": "NumberOfWords",
+      "prompt": "The Lesson Learned: The Chronicle, nearly shattered himself, now carries the belief that  ______ - 4 words",
+      "submissionTime": 100000
+    },
+    {
+      "mode": "Tiebreak",
+      "type": "Acronym",
+      "prompt": "Name This Story - T.O.T.E.M."
+    }
+  ]
+}
